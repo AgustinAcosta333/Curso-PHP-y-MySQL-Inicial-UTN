@@ -1,5 +1,6 @@
 # Curso-PHP-y-MySQL-Inicial-UTN
 Subo mis trabajos prácticos acá solo para tenerlos. Sentite libre de husmearlos. No me copies.
+I only upload my courses works for archive. Feel free of saw it. Only don't copy me. (My english is bad xD.)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣾⣿⣿⣿⣿⣿⣿⣷⣶⣾⣿⣿⣿⣿⣿⣷⣤⣤⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣴⣿⣿⢿⣯⢷⣻⣞⣷⣻⢾⣽⣻⢿⡿⣷⣟⣾⡽⣞⣿⣻⢿⣿⣿⣴⣠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -32,3 +33,4 @@ Subo mis trabajos prácticos acá solo para tenerlos. Sentite libre de husmearlo
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠉⠈⠁⠈⣫⣿⡿⠋⠀⠘⢿⣿⣿⣿⣿⣿⣿⣦⣤⣀⡀⣼⠃⡌⣙⢶⣿⣿⣿⣿⣿⡟⠀⠀⠘⢿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 Yuuka Gyate (Autor anónimo.) Obtenido desde https://emojicombos.com/touhou-text-art
+Yuuka Gyate (Anonymous author.) Obtained from https://emojicombos.com/touhou-text-art
